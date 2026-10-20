@@ -18,6 +18,14 @@ Train your eye for jigsaw puzzles. Each round presents a set of pieces — find 
 
 Pieces are matched by their interlocking edge shapes (tabs and blanks) and color.
 
+## Android app (APK)
+
+A fully offline Android version, **Jigsaw Trainer**, is being published on Google
+Play. It runs the same game on-device with no network access, no account and no ads.
+
+- **Privacy policy for the Android app:** https://rriquelme.github.io/Train_Jigsaw/privacy-policy/
+  (the policy applies to the APK / Google Play app, not to this web demo).
+
 ## Feedback & issues
 
 Found a bug or have a feature idea? [Open an issue](https://github.com/rriquelme/Train_Jigsaw/issues) — all feedback welcome.
